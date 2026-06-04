@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["UtilsCompassSV", "UtilsDataRSV", "UtilsFlowSOMSV", "faust", "projr", "UtilsGGSV", "UtilsCytoRSV", "UtilsFaustSV"]
+  "repositories": ["UtilsCompassSV", "UtilsDataRSV", "UtilsFlowSOMSV", "faust", "projr", "UtilsGGSV", "UtilsCytoRSV", "UtilsFaustSV", "DataTidyACSClinical", "DataTidyACSSoma", "DataTidy19RodoVaccComp"]
 }
