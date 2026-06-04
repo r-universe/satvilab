@@ -1,4 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/satvilab/satvilab.r-universe.dev
 	branch = HEAD
+[submodule "DataTidy19RodoVaccComp"]
+	path = DataTidy19RodoVaccComp
+	url = https://github.com/SATVILab/DataTidy19RodoVaccComp
+	branch = *release
+[submodule "DataTidyACSClinical"]
+	path = DataTidyACSClinical
+	url = https://github.com/SATVILab/DataTidyACSClinical
+	branch = *release
+[submodule "DataTidyACSSOMA"]
+	path = DataTidyACSSOMA
+	url = https://github.com/SATVILab/DataTidyACSSOMA
+	branch = *release
+[submodule "UtilsCompassSV"]
+	path = UtilsCompassSV
+	url = https://github.com/SATVILab/UtilsCompassSV
+	branch = *release
+[submodule "UtilsCytoRSV"]
+	path = UtilsCytoRSV
+	url = https://github.com/SATVILab/UtilsCytoRSV
+	branch = *release
+[submodule "UtilsDataRSV"]
+	path = UtilsDataRSV
+	url = https://github.com/SATVILab/UtilsDataRSV
+	branch = *release
+[submodule "UtilsFaustSV"]
+	path = UtilsFaustSV
+	url = https://github.com/SATVILab/UtilsFaustSV
+	branch = *release
+[submodule "UtilsGGSV"]
+	path = UtilsGGSV
+	url = https://github.com/SATVILab/UtilsGGSV
+	branch = *release
+[submodule "projr"]
+	path = projr
+	url = https://github.com/SATVILab/projr
+	branch = *release

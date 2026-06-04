@@ -1,0 +1,38 @@
+[
+  {
+    "package": "projr",
+    "releasetag": true
+  },
+  {
+    "package": "UtilsGGSV",
+    "releasetag": true
+  },
+  {
+    "package": "DataTidyACSClinical",
+    "releasetag": true
+  },
+  {
+    "package": "UtilsFaustSV",
+    "releasetag": true
+  },
+  {
+    "package": "UtilsCytoRSV",
+    "releasetag": true
+  },
+  {
+    "package": "UtilsCompassSV",
+    "releasetag": true
+  },
+  {
+    "package": "UtilsDataRSV",
+    "releasetag": true
+  },
+  {
+    "package": "DataTidy19RodoVaccComp",
+    "releasetag": true
+  },
+  {
+    "package": "DataTidyACSSOMA",
+    "releasetag": true
+  }
+]
