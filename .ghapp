@@ -1,0 +1,10 @@
+{
+  "id": 137882835,
+  "created_at": "2026-06-04T04:47:09.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["UtilsCompassSV", "UtilsDataRSV", "UtilsFlowSOMSV", "faust", "projr", "UtilsGGSV", "UtilsCytoRSV", "UtilsFaustSV"]
+}
