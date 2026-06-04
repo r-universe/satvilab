@@ -5,11 +5,11 @@
 [submodule "DataTidy19RodoVaccComp"]
 	path = DataTidy19RodoVaccComp
 	url = https://github.com/SATVILab/DataTidy19RodoVaccComp
-	branch = *release
+	branch = archive
 [submodule "DataTidyACSClinical"]
 	path = DataTidyACSClinical
 	url = https://github.com/SATVILab/DataTidyACSClinical
-	branch = *release
+	branch = v1.1.0
 [submodule "DataTidyACSSOMA"]
 	path = DataTidyACSSOMA
 	url = https://github.com/SATVILab/DataTidyACSSOMA
@@ -37,4 +37,4 @@
 [submodule "projr"]
 	path = projr
 	url = https://github.com/SATVILab/projr
-	branch = *release
+	branch = v0.5.1
